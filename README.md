@@ -47,7 +47,7 @@ The results to these tests were somewhat surprising. I always thought I was a li
 
 I think knowing that I am an auditory learner and that I am more of a listener is helpful knowledge. This will help me to be mindful of staying in the productive space within the group as oppose to trying to take control. 
 
-###Project Idea
+### Project Idea
 Since I heard the week 1 podcast I was infatuated with the idea of programming a raspberry pi for this project. After talking to a few of the other students and having the knowledge of commercial kitchens we came up with the idea of setting up a raspberry pi inside the cool room and the several fridges that would be located around said commercial kitchen. It would then relay the temperature to a device within the head chefs possession auto filling In the daily temperature checking. Could also integrate some sort of very simple stock take system on specific items, having the raspberry pi know when said items have left the cool room and need to be replaced.
 
 I have been working in kitchens for almost ten years now and have only ever seen one system mildly similar to this. When I asked about this system and how much it cost to set up the answer was unsettling. This raspberry pi alternative will be a much cheaper and much more accessible alternative to the latter.

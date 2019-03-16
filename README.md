@@ -47,30 +47,13 @@ The results to these tests were somewhat surprising. I always thought I was a li
 
 I think knowing that I am an auditory learner and that I am more of a listener is helpful knowledge. This will help me to be mindful of staying in the productive space within the group as oppose to trying to take control. 
 
-```markdown
-Syntax highlighted code block
+###Project Idea
+Since I heard the week 1 podcast I was infatuated with the idea of programming a raspberry pi for this project. After talking to a few of the other students and having the knowledge of commercial kitchens we came up with the idea of setting up a raspberry pi inside the cool room and the several fridges that would be located around said commercial kitchen. It would then relay the temperature to a device within the head chefs possession auto filling In the daily temperature checking. Could also integrate some sort of very simple stock take system on specific items, having the raspberry pi know when said items have left the cool room and need to be replaced.
 
-# Header 1
-## Header 2
-### Header 3
+I have been working in kitchens for almost ten years now and have only ever seen one system mildly similar to this. When I asked about this system and how much it cost to set up the answer was unsettling. This raspberry pi alternative will be a much cheaper and much more accessible alternative to the latter.
 
-- Bulleted
-- List
+As I stated in the first paragraph the raspberry pi will be hooked up to a thermocouple and will take temperatures by sitting within the cool room/freezer and reporting back the temps at a scheduled time. They will also act as a counter measure towards any of the cool rooms shutting down. Once the temperature in these cool rooms starts to go below the threshold eg. 6 degrees below recommended temperature it will send a warning notification to the head chef so that he can sort out the issue before it becomes worse. Simple straight forward idea that could be mass produced and sold at a low price. 
 
-1. Numbered
-2. List
+To achieve this I will utilize the technology of the raspberry pi coupled with a thermometer that suits. I believe the way I would program the raspberry pi would be done using the python.py language. So to fully achieve this I will have to train myself in the python language. Also I will be going to a seminar on the 23rd in Melbourne explaining how raspberry pi’s work, what they can do and how to utilize their technology efficiently. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sanjjdj/My-profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Once this project has been successfully completed the industry will have a cheap fast efficient way of taking the temperatures in cool rooms. Will nullify the need for hard copy temperature logs and will save time for the preparation and serving of food.

@@ -2,6 +2,8 @@
 
 My name is Sam John and my student number is s3795053. I was born in Geelong, Victoria in Geelong hospital. Soon after I was born I moved to Tasmania to live near Hobart until I was eight years old. My parents eventually realised how cold the little island actually was and decided to move back to Geelong where I have lived ever since. I went on to finish V.C.E at Bellarine secondary college which is located on the Bellarine Peninsula. I then went on to study an advanced diploma of computer systems engineering dropping out halfway through being consumed by the party scene as an impressionable newbie adult. Once I regathered my footings on reality I decided to study sound engineering completing it in the year of 2015. I learnt a lot from my studies but was unable to find a job, as the music industry is a tough chestnut to crack. I then went on to study commercial cookery and after two years of study decided it wasn’t for me. I am still currently working in the hospitality sector, but hopefully not for much longer. After much deliberation and a few stressful months I decided to do what I love, computers. 
 
+I heard that RMIT would be the best place to study in the I.T industry. As I am not moving up to melbourne until the near future I chose to study online.
+
 My interest in I.T started at a young age. My parents bought me a computer when I was around 10 years old. I do not think I’ve had a happier moment since that brick of a thing got setup in my room. I love gaming and will always. I find myself wondering how the code is written for a certain mechanic in a game, more than I enjoy the mechanic itself. I want to know what goes on behind the scenes. How they build each element from the ground up. How their creative juices have an impact on the progression of these things and how I can make it better once I have learned the fundamentals. It’s not just the gaming industry that I want to lift the curtain off. I also have recently gained a heavy interest in the cyber security side of things. Being in charge of protecting a business from outside virtual intruders sounds exciting to say the least. Having my counter measures broken only to add a new line of defence sounds new and inventive. 
 
 
@@ -43,3 +45,6 @@ As I stated in the first paragraph the raspberry pi will be hooked up to a therm
 To achieve this I will utilize the technology of the raspberry pi coupled with a thermometer that suits. I believe the way I would program the raspberry pi would be done using the python.py language. So to fully achieve this I will have to train myself in the python language. Also I will be going to a seminar on the 23rd in Melbourne explaining how raspberry pi’s work, what they can do and how to utilize their technology efficiently. 
 
 Once this project has been successfully completed the industry will have a cheap fast efficient way of taking the temperatures in cool rooms. Will nullify the need for hard copy temperature logs and will save time for the preparation and serving of food.
+
+Thanks for reading, 
+Sam John 

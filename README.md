@@ -31,6 +31,21 @@ To successfully enter into this position I believe I would need to have at least
 I currently only have a advanced diploma of sound engineering which would not apply to the industry. However I have been a computer enthusiast since I was 10 years old. I am a fast learner and having a direct interest in the field will prove a lot easier to gain the skills needed to be successful.
 
 To gain these needed skills and qualifications I will do the following. Complete a degree in cyber security. Get a low level job in the area and continue independent study at home whilst learning as much as I can from the acquired job.
+### Results from tests
+ 
+16 personalities test – Mediator type. 
+https://www.16personalities.com/
+
+Education planner learning styles test. Auditory learner 
+http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
+
+Test my creativity – Score is 64.28
+http://www.testmycreativity.com/
+
+
+The results to these tests were somewhat surprising. I always thought I was a little more creative than these said. It is nice to know that I am a mediator type. Able to see both sides of the argument could prove to be useful in certain situations.
+
+I think knowing that I am an auditory learner and that I am more of a listener is helpful knowledge. This will help me to be mindful of staying in the productive space within the group as oppose to trying to take control. 
 
 ```markdown
 Syntax highlighted code block
